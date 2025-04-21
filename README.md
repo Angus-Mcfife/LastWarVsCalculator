@@ -16,4 +16,10 @@ A PyQt6-based desktop application to help players of *Last War* calculate resour
 
 
 ## Please consider donating to support this Project and Future Development
-(https://www.paypal.com/donate/?hosted_button_id=QTAZ5GNFAXKKL)
+https://www.paypal.com/donate/?hosted_button_id=QTAZ5GNFAXKKL
+
+## Future Improvements:
+- Capitol Warzone calculator
+- Adding in specific building power upgrade levels
+- Gear Compare w/ hero stats
+- TBD based on feedback
