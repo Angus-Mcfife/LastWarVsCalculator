@@ -23,3 +23,4 @@ https://www.paypal.com/donate/?hosted_button_id=QTAZ5GNFAXKKL
 - Adding in specific building power upgrade levels
 - Gear Compare w/ hero stats
 - TBD based on feedback
+- submit feature requests or bug reports to betta_masted.9u@icloud.com
